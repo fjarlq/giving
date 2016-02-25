@@ -27,6 +27,7 @@
 ## Policy
 * [Bernie Sanders 2016](https://berniesanders.com/)
 * [Center for Inquiry](http://www.centerforinquiry.net/)
+* [FairVote](http://www.fairvote.org)
 * [Freedom From Religion Foundation](https://ffrf.org/)
 
 ## Professional
