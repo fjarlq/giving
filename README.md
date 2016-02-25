@@ -5,6 +5,7 @@
 * [Doctors Without Borders](http://www.doctorswithoutborders.org/)
 * [Engineers Without Borders](http://www.ewb-usa.org/)
 * [Planned Parenthood](https://www.plannedparenthood.org/)
+* [SENS Research Foundation](http://www.sens.org/)
 * [The V Foundation for Cancer Research](https://www.jimmyv.org/)
 * [Water.org](http://water.org/)
 
