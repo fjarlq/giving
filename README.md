@@ -1,6 +1,7 @@
 # Charities and non-profits that fjarlq likes
 
 ## Health
+* [Alcor Life Extension Foundation](http://www.alcor.org/)
 * [The Brain & Behavior Research Foundation](https://bbrfoundation.org/)
 * [Doctors Without Borders](http://www.doctorswithoutborders.org/)
 * [Engineers Without Borders](http://www.ewb-usa.org/)
