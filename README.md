@@ -1,7 +1,7 @@
 # Charities and non-profits that fjarlq likes
 
 ## Health
-* [Alcor Life Extension Foundation](http://www.alcor.org/)
+* [Alcor Life Extension Foundation](https://www.alcor.org/)
 * [The Brain & Behavior Research Foundation](https://bbrfoundation.org/)
 * [Doctors Without Borders](http://www.doctorswithoutborders.org/)
 * [Engineers Without Borders](http://www.ewb-usa.org/)
@@ -12,7 +12,7 @@
 
 ## History
 * [Computer History Museum](http://www.computerhistory.org/)
-* [Smithsonian Institution](http://www.si.edu/)
+* [Smithsonian Institution](https://www.si.edu/)
 
 ## Internet
 * [Electronic Frontier Foundation](https://www.eff.org/)
@@ -24,7 +24,7 @@
 * [National Public Radio](http://www.npr.org)
 
 ## Microlending
-* [Kiva](http://www.kiva.org/)
+* [Kiva](https://www.kiva.org/)
 
 ## Policy
 * [Hillary Clinton 2016](https://www.hillaryclinton.com/)
@@ -33,7 +33,7 @@
 * [Freedom From Religion Foundation](https://ffrf.org/)
 
 ## Professional
-* [ACM](http://www.acm.org/)
+* [ACM](https://www.acm.org/)
 * [IEEE](https://www.ieee.org/)
 
 ## See also
