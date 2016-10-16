@@ -29,7 +29,6 @@
 ## Policy
 * [Hillary Clinton 2016](https://www.hillaryclinton.com/)
 * [Center for Inquiry](http://www.centerforinquiry.net/)
-* [FairVote](http://www.fairvote.org)
 * [Freedom From Religion Foundation](https://ffrf.org/)
 
 ## Professional
