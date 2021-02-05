@@ -1,35 +1,51 @@
 # Charities and non-profits that fjarlq likes
 
+## Civil Rights
+* [American Civil Liberties Union](https://www.aclu.org/)
+* [Center for Reproductive Rights](https://www.reproductiverights.org/)
+* [International Refugee Assistance Project](https://refugeerights.org/)
+* [Mexican American Legal Defense and Educational Fund](https://www.maldef.org/)
+* [NAACP Legal Defense Fund](https://www.naacpldf.org/)
+
+## Environment
+* [National Resources Defense Council](https://www.nrdc.org/)
+
 ## Health
-* [Alcor Life Extension Foundation](https://www.alcor.org/)
 * [The Brain & Behavior Research Foundation](https://bbrfoundation.org/)
-* [Doctors Without Borders](http://www.doctorswithoutborders.org/)
-* [Engineers Without Borders](http://www.ewb-usa.org/)
+* [Doctors Without Borders](https://www.doctorswithoutborders.org/)
+* [Engineers Without Borders](https://www.ewb-usa.org/)
 * [Planned Parenthood](https://www.plannedparenthood.org/)
-* [SENS Research Foundation](http://www.sens.org/)
+* [The Trevor Project](https://www.thetrevorproject.org/)
 * [The V Foundation for Cancer Research](https://www.jimmyv.org/)
-* [Water.org](http://water.org/)
+* [Water.org](https://water.org/)
 
 ## History
-* [Computer History Museum](http://www.computerhistory.org/)
+* [Computer History Museum](https://www.computerhistory.org/)
 * [Smithsonian Institution](https://www.si.edu/)
+
+## Humanism
+* [Center for Inquiry](https://www.centerforinquiry.net/)
+* [Inequality Media](https://www.inequalitymedia.org/)
+* [League of Women Voters](https://lwv.org/)
+* [Freedom From Religion Foundation](https://ffrf.org/)
 
 ## Internet
 * [Electronic Frontier Foundation](https://www.eff.org/)
 * [Free Software Foundation](https://www.fsf.org/)
+* [Mozilla](https://www.mozilla.org/)
 * [Wikimedia Foundation](https://wikimediafoundation.org/)
 
+## Longevity
+* [Alcor Life Extension Foundation](https://www.alcor.org/)
+* [SENS Research Foundation](https://www.sens.org/)
+
 ## Media
-* [First Look Media](https://firstlook.org/)
-* [National Public Radio](http://www.npr.org)
+* [NPR](https://www.npr.org/)
+* [ProPublica](https://www.propublica.org/)
+* [PBS](https://www.pbs.org/)
 
 ## Microlending
 * [Kiva](https://www.kiva.org/)
-
-## Policy
-* [Hillary Clinton 2016](https://www.hillaryclinton.com/)
-* [Center for Inquiry](http://www.centerforinquiry.net/)
-* [Freedom From Religion Foundation](https://ffrf.org/)
 
 ## Professional
 * [ACM](https://www.acm.org/)
@@ -37,4 +53,4 @@
 
 ## See also
 * [Charity Navigator](https://www.charitynavigator.org/)
-* [GiveWell](http://www.givewell.org/)
+* [GiveWell](https://www.givewell.org/)
