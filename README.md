@@ -11,22 +11,22 @@
 * [National Resources Defense Council](https://www.nrdc.org/)
 
 ## Health
-* [The Brain & Behavior Research Foundation](https://bbrfoundation.org/)
+* [The Brain & Behavior Research Foundation](https://www.bbrfoundation.org/)
 * [Doctors Without Borders](https://www.doctorswithoutborders.org/)
 * [Engineers Without Borders](https://www.ewb-usa.org/)
 * [Planned Parenthood](https://www.plannedparenthood.org/)
 * [The Trevor Project](https://www.thetrevorproject.org/)
-* [The V Foundation for Cancer Research](https://www.jimmyv.org/)
+* [The V Foundation for Cancer Research](https://www.v.org/)
 * [Water.org](https://water.org/)
 
 ## History
-* [Computer History Museum](https://www.computerhistory.org/)
+* [Computer History Museum](https://computerhistory.org/)
 * [Smithsonian Institution](https://www.si.edu/)
 
 ## Humanism
-* [Center for Inquiry](https://www.centerforinquiry.net/)
+* [Center for Inquiry](https://centerforinquiry.org/)
 * [Inequality Media](https://www.inequalitymedia.org/)
-* [League of Women Voters](https://lwv.org/)
+* [League of Women Voters](https://www.lwv.org/)
 * [Freedom From Religion Foundation](https://ffrf.org/)
 
 ## Internet
