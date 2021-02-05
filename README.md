@@ -41,8 +41,8 @@
 
 ### Journalism
 * [NPR](https://www.npr.org/)
-* [ProPublica](https://www.propublica.org/)
 * [PBS](https://www.pbs.org/)
+* [ProPublica](https://www.propublica.org/)
 
 ### Longevity
 * [Alcor Life Extension Foundation](https://www.alcor.org/)
