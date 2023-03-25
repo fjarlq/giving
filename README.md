@@ -36,6 +36,7 @@
 ### Internet
 * [Electronic Frontier Foundation](https://www.eff.org/)
 * [Free Software Foundation](https://www.fsf.org/)
+* [Internet Archive](https://archive.org/)
 * [Mozilla](https://www.mozilla.org/)
 * [Wikimedia Foundation](https://wikimediafoundation.org/)
 
